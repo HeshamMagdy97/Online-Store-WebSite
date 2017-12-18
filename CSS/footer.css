@@ -1,0 +1,54 @@
+.footer{
+  background-color: #e0e0e0;
+  height: 310px;
+  width: 100%;
+  padding-top: 35px;
+  position: relative;
+
+
+}
+.h4{
+  color: black;
+  font-size: 22px;
+}
+.footer-pages ul{
+  margin-top: 20px;
+
+}
+.footer ul  li{
+  color: white;
+  font-size: 18px;
+  list-style: none;
+}
+.footer ul li a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #999999;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+.footer-pages{
+  margin-left: 75px;
+  margin-right: 30px;
+  padding-bottom: 25px;
+  padding-right: 130px;
+  border-bottom: 1px  solid white;
+  display: inline-block;
+}
+.footer-user-section{
+  margin-left: 75px;
+  padding-top: 25px;
+
+}
+.categories ul{
+  margin-top: 10px;
+
+}
+.categories {
+  display: inline-block;
+  position: absolute;
+   left: 400px;
+   top:30px;
+}
+.categories-men{
+  margin-bottom: 50 px;
+}
